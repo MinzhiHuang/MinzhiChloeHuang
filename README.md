@@ -1,4 +1,4 @@
-👋 Hi, I’m Chloe (Minzhi) | 🤩 I am a passionate Master of Data Science student at the University of British Columbia | 🌱 Continuous Learning; Life Long Learner | 📫 How to reach me: chloe018@student.ubc.ca
+👋 Hi, I’m Chloe (Minzhi) | 🤩 A passionate Master of Data Science student at the University of British Columbia | 🌱 Keep Continuous Learning; Life Long Learner | 📫 How to reach me: chloe018@student.ubc.ca
 
 ✨ One sentence I like regarding statistics: “All knowledge is, in the final analysis, history. All sciences are, in the abstract, mathematics. All judgments are, in their rationale, statistics.” - C.R.Rao
 
